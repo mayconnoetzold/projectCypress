@@ -1,0 +1,30 @@
+[{
+  "firstName": "Maycon",
+  "lastName": "Noetzold",
+  "adress": "R. Paranauê, 1010",
+  "emailAdress": "mn@com.com",
+  "radioGender": "m",
+  "checks": [
+    "Netflix",
+    "Livros"
+  ],
+  "selectCountries": "Dinamarca",
+  "selectYears": "2000",
+  "selectMonths": "Julho",
+  "pwd": "Uai1"
+},
+{
+  "firstName": "Cleiton",
+  "lastName": "Sales",
+  "adress": "R. Paranauê, 1011",
+  "emailAdress": "cs@com.com",
+  "radioGender": "m",
+  "checks": [
+    "Netflix",
+    "Livros"
+  ],
+  "selectCountries": "Dinamarca",
+  "selectYears": "2000",
+  "selectMonths": "Julho",
+  "pwd": "Uai1"
+}]
